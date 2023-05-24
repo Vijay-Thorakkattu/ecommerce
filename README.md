@@ -63,7 +63,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Instructions to run on the local
 server
 
-1. Clone this project
+1. Clone this project "https://github.com/Vijay-Thorakkattu/ecommerce.git"
 2. Create a .env file 
 3. Create a database and connect to the .env file 
 4. composer install 
