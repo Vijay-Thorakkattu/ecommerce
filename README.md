@@ -60,5 +60,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+Instructions to run on the local
+server
 
-hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+1. Clone this project
+2. Create a .env file 
+3. Create a database and connect to the .env file 
+4. composer install 
+5. Run the project in local server 
+5. Run the command " php artisan migrate:fresh --seed "
