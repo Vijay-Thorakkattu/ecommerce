@@ -66,6 +66,8 @@ server
 1. Clone this project "https://github.com/Vijay-Thorakkattu/ecommerce.git"
 2. Create a .env file 
 3. Create a database and connect to the .env file 
-4. composer install 
-5. Run the project in local server 
-5. Run the command " php artisan migrate:fresh --seed "
+4. Go to project root 
+5. Run the command "composer install" 
+6. Run the project in local server 
+7. Run the command " php artisan migrate:fresh --seed "
+8. Run the command " php artisan storage:link "
